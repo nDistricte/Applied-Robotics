@@ -1,0 +1,9 @@
+6 5 # size of the maze, i.e. 6 rows and 5 rows
+1 2 # starting position of the robot is row 1, column 2
+3 5 # target (goal position for the robot) is row 3, column 5 
+0 0 0 0 0
+0 1 0 1 0
+0 0 1 0 0
+0 1 0 0 0
+0 1 0 1 0
+0 1 0 0 1
